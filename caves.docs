@@ -1,0 +1,13 @@
+[local variables]
+caves  : (table) module variable
+layers : (list) unused
+init   : (boolean) is this module initialised
+n_layer: (int) the amount of active cave layers
+
+cave_gen_settings: (MapGenSettings) settings for generating caves
+
+[module functions]
+add_layer: add a new cave below the last one
+init     : initialise the module
+move_up  : move the player up 1 layer
+move_down: move the player down 1 layer
