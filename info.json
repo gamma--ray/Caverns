@@ -1,0 +1,11 @@
+{
+    "name": "Caverns",
+    "version": "0.0.0",
+    "title": "Caverns",
+    "author": "gammaray_",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.15",
+    "dependencies": ["base >= 0.15"],
+    "description": "Caverns!"
+}
